@@ -1,0 +1,17 @@
+{
+  "name": "node-expect",
+  "description": "Library of IP functions for IP address manipulation",
+  "version": "0.9.0",
+  "author": "Brandon Myers <trakkasure@gmail.com>",
+  "maintainers": [ 
+    { "name": "Brandon Myers", "email": "trakkasure@gmail.com" }
+  ],
+  "contributors": [ 
+    { "name": "Brandon Myers", "email": "trakkasure@gmail.com" }
+  ],
+  "keywords": ["ip", "net", "math","library"],
+  "repository": "git://github.com/trakkasure/node-ip-lib",
+  "bugs" : "https://github.com/Trakkasure/node-ip-lib/issues",
+  "main": "lib/index",
+  "engines": { "node": ">= 0.2.0" }
+}
