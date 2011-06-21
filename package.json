@@ -1,5 +1,5 @@
 {
-  "name": "node-expect",
+  "name": "node-ip-lib",
   "description": "Library of IP functions for IP address manipulation",
   "version": "0.9.0",
   "author": "Brandon Myers <trakkasure@gmail.com>",
